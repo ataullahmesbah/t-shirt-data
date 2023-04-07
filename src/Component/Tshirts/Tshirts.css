@@ -1,0 +1,13 @@
+.tshirt-product{
+    padding: 10px;
+    
+   border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.tshirt-product img{
+    width: 286px;
+    height: 286px;
+    border: 1px solid rgb(177, 30, 177);
+    border-radius: 8px;
+}
